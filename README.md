@@ -1,5 +1,5 @@
 # javascript  
 
 ## Equipe  
--aluno 1
--aluno 2 
+-aluno 1  
+-aluno 2  
